@@ -1,4 +1,6 @@
 pyVAPE客户端，正如它的名字，这是一个作弊客户端。
+*提示：请支持源项目：https://github.com/Minecraft-in-python/Minecraft
+
 修改内容：
 1.玩家不会掉进虚空中死亡；
 2.玩家不会被TNT炸死；
