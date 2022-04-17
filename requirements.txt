@@ -1,0 +1,4 @@
+psutil
+pyglet
+pyshaders
+opensimplex
