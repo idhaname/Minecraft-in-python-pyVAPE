@@ -23,7 +23,8 @@ minecraft\block\bedrock.py
 l6 5
 minecraft\entity\item\tnt.py
 l22~23 2
-至于6，暂时没找出别的好方法。目前的实现方法是：
+至于6，Windows系统暂时没找出配置文件的路径。Linux可参见https://www.bilibili.com/video/BV1Dy4y1K7Eo视频1:50
+目前的实现方法是：
 将原来minecraft\assets\lang\en_us.json重命名为1en_us.json，
 并将原来minecraft\assets\lang\zh_cn.json重命名为en_us.json来欺骗游戏加载
 minecraft\assets\lang\en_us.json(重命名后)
